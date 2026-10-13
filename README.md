@@ -287,21 +287,7 @@ Based on the verified findings, the analysis can help identify opportunities to:
 
 These recommendations should be refined according to the actual query results.
 
-## 9. Project Files
-
-The repository contains the project documentation and SQL scripts organized by analysis topic.
-
-Suggested structure:
-
-- `README.md` — Project overview, objectives, and findings
-- `sql-queries/01_booking_passenger_analysis.sql`
-- `sql-queries/02_seat_aircraft_analysis.sql`
-- `sql-queries/03_flight_schedule_analysis.sql`
-- `sql-queries/04_airport_route_analysis.sql`
-- `sql-queries/05_cancellation_refund_analysis.sql`
-- `sql-queries/06_aircraft_manufacturer_analysis.sql`
-
-## 10. Conclusion
+### 9. Conclusion
 
 This Airline Database Analysis project provided practical experience in using PostgreSQL to investigate airline operations, passenger bookings, flight schedules, aircraft utilization, and financial transactions.
 
